@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/RCTView.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/adamjaggers/learn/daytwo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/adamjaggers/learn/daytwo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h

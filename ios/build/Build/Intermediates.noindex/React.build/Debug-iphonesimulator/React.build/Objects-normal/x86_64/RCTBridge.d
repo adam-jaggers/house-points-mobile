@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTBridge.m \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/adamjaggers/learn/daytwo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/adamjaggers/learn/daytwo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/adamjaggers/learn/daytwo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/adamjaggers/learn/daytwo/node_modules/react-native/React/Base/RCTReloadCommand.h
