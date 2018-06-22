@@ -66,7 +66,7 @@ const houseTwoStyles = StyleSheet.create({
       textShadowRadius: 10
   },
   houseCrest: {
-        tintColor : '#C0C0C0'
+        tintColor : '#520015'
 
       }
 });
@@ -87,7 +87,7 @@ const houseThreeStyles = StyleSheet.create({
       textShadowRadius: 10
   },
   houseCrest: {
-        tintColor : '#A9A9A9'
+        tintColor : '#004000'
 
       }
 });
@@ -108,7 +108,7 @@ const houseFourStyles = StyleSheet.create({
       textShadowRadius: 10
   },
   houseCrest: {
-        tintColor : '#808080'
+        tintColor : '#6F5511'
 
       }
 });

@@ -13,7 +13,7 @@ export class ScoreContainer extends Component {
                      <HouseCrest  style={this.props.style} houseIcon={this.props.houseIcon} />
            </View>
             <View style={{flex: 1}}>
-                <Text style={{fontSize: 50}}> {this.props.points} </Text>
+                <Text style={{fontSize: 50, color: 'black'}}> {this.props.points} </Text>
             </View>
             <View style={{flex: 1}}>
                 <Text style={this.props.style.houseText} > {this.props.name} </Text>
