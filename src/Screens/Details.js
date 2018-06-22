@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { View, Text, Button, StyleSheet } from 'react-native';
-import Header from './Header'
+import Header from '../Components/Header'
 
 export class Details extends Component {
 

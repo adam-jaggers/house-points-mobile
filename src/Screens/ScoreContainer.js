@@ -7,16 +7,13 @@ export class ScoreContainer extends Component {
 
   render() {
     return (
-        <View style={[this.props.style.houseBox, {flex: 1, flexDirection: 'column', justifyContent: 'center'}]}>
+        <View style={[this.props.style.houseBox, {flex: 1, flexDirection: 'column', justifyContent: 'center', padding: 5}]}>
 
-            <View style={{flex: 4, alignItems: 'center', padding: 10}}>
-                     <HouseCrest  style={this.props.style} />
+            <View style={{flex: 4, alignItems: 'center'}}>
+                     <HouseCrest  style={this.props.style} houseIcon={this.props.houseIcon} />
            </View>
-
-
-
             <View style={{flex: 1}}>
-                <Text style={{fontSize: 50}}> 100 </Text>
+                <Text style={{fontSize: 50}}> {this.props.points} </Text>
             </View>
             <View style={{flex: 1}}>
                 <Text style={this.props.style.houseText} > {this.props.name} </Text>

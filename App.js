@@ -38,7 +38,7 @@ const AppNavigator = createBottomTabNavigator(
                 const { routeName } = navigation.state;
                 let iconName;
                 if (routeName === 'Home') {
-                          iconName = 'home';
+                          iconName = 'cake';
                         } else if (routeName === 'Settings') {
                           iconName = 'settings';
                         }
